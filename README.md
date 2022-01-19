@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Jakes Uche
+## Hi there 👋 I'm Jakes Uche
 
-##Stacks 
+### Stacks 
 
 # React,
 # Vue/nuxt/quaser
