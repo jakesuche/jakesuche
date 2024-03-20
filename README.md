@@ -3,13 +3,13 @@
 ## Tools
 
 ### React,
-### Vue/nuxt/quaser
+### Vue/nuxt
 ### React native
 ### Node.js/ Mongodb / Express 
 ### Redux
 ### vuex
-### capacitor
-### circle ci
+### Next.js
+### elixir
 
 
 
