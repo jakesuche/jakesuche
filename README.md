@@ -10,6 +10,7 @@
 ### vuex
 ### Next.js
 ### elixir
+### Nuxt
 
 
 
